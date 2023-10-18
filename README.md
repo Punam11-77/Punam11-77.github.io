@@ -52,7 +52,7 @@ I read this interesting quote the other day:
 *  Azalea (_Ericaceae Rhododendron_)
 *  Chrysanthemum (_Anthemideae Chrysanthemum_)
 *  Dahlia (_Coreopsideae Dahlia_)
-*  
+
 * Calculus
  * A professor
  * Has no hair
@@ -61,7 +61,8 @@ I read this interesting quote the other day:
  * An opera singer
  * Has white hair
  * Is possibly mentally unwell
- * 1. Cut the cheese
+
+1. Cut the cheese
 
  Make sure that the cheese is cut into little triangles.
 
