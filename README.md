@@ -6,8 +6,8 @@ Norvic International Hospital\
 2 years as an OPD assistant
 Rajesh Hardwares Pvt Ltd\
 1 years as a Sales Manager
-Writing in Markdown is _not_ that hard!/
-I **will** complete these lessons!/
+Writing in Markdown is _not_ that hard!  
+I **will** complete these lessons!  
 "_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 #### Colombian Symbolism in _One Hundred Years of Solitude_
