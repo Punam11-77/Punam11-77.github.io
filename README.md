@@ -1,15 +1,24 @@
-# AIROBOTICS
+# AI ROBOTICS
 
 ##### Currently studying: Centria UAS
 ##### Work experience
-Norvic International Hospital\
+Norvic International Hospital  
 2 years as an OPD assistant
-Rajesh Hardwares Pvt Ltd\
-1 years as a Sales Manager
+Rajesh Hardwares Pvt Ltd  
+1 years as a Sales Manager  
+  
 Writing in Markdown is _not_ that hard!  
 I **will** complete these lessons!  
 "_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"
-If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
+If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.  
+
+# Header one
+## Header two
+### Header three
+#### Header four
+##### Header five
+###### Header six  
+
 #### Colombian Symbolism in _One Hundred Years of Solitude_
 
 Here's some words about the book _One Hundred Years..._.
@@ -70,8 +79,10 @@ I read this interesting quote the other day:
     
  Be careful when holding the knife.
     
- For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
- We pictured the meek mild creatures where  
+ For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.  
+
+ 
+We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
 Nor did it occur to one of us there  
 To doubt they were kneeling then.
