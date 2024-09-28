@@ -1,6 +1,6 @@
 # AI ROBOTICS#
 
-##### Currently studying: Centria UAS
+##### Currently studying: Centria UAS#
 ##### Work experience
 Norvic International Hospital  
 2 years as an OPD assistant
